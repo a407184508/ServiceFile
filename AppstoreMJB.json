@@ -1,5 +1,5 @@
 {
-    type=1
-    name=chuck
-    code=0
+    "type":1,
+    "name":"chuck",
+    "code":0
 }
