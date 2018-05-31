@@ -1,12 +1,12 @@
 {
     "banners":[
         {
-            "img":"",
+            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/banner1.png",
             "des":"",
             "url":""
         },
         {
-            "img":"",
+            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/banner2.png",
             "des":"",
             "url":""
         }
@@ -15,12 +15,16 @@
         {
             "text" : "“彩票开奖助手”上线啦…",
             "des" : "",
-            "url" : ""
+            "url" : "",
+            "time" : "2018年05月31日",
+            "author" : "Chuck"
         },
         {
             "text" : "更多资讯",
             "des" : "",
-            "url" : ""
+            "url" : "",
+            "time" : "2018年05月31日",
+            "author" : "Mr.chen"
         }
     ],
     "status":0,
