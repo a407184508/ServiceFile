@@ -1,12 +1,17 @@
 {
     "banners":[
         {
-            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/banner1.png",
+            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/3.jpg",
             "des":"",
             "url":""
         },
         {
-            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/banner2.png",
+            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/2.jpg",
+            "des":"",
+            "url":""
+        },
+        {
+            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/1.jpg",
             "des":"",
             "url":""
         }
