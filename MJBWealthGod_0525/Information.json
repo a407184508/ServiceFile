@@ -1,43 +1,43 @@
 {
-    "preferential" : [
+    "preferential": [
         {
-            "name":"这是一个标题",
-            "detail":"这是一条资讯",
-            "imageUrl":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
-            "num":1
+            "name": "这是一个标题",
+            "detail": "这是一条资讯",
+            "imageUrl": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
+            "num": 1
         },
         {
-            "name":"这是一个标题",
-            "detail":"这是一条资讯",
-            "imageUrl":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
-            "num":2
+            "name": "这是一个标题",
+            "detail": "这是一条资讯",
+            "imageUrl": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
+            "num": 2
         },
         {
-            "name":"这是一个标题",
-            "detail":"这是一条资讯",
-            "imageUrl":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
-            "num":3
+            "name": "这是一个标题",
+            "detail": "这是一条资讯",
+            "imageUrl": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
+            "num": 3
         }
     ],
-    "information" : [
+    "information": [
         {
-            "name":"这是一个标题",
-            "detail":"这是一条资讯",
-            "imageUrl":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
-            "num":1
+            "name": "这是一个标题",
+            "detail": "这是一条资讯",
+            "imageUrl": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
+            "num": 1
         },
         {
-            "name":"这是一个标题",
-            "detail":"这是一条资讯",
-            "imageUrl":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
-            "num":2
+            "name": "这是一个标题",
+            "detail": "这是一条资讯",
+            "imageUrl": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
+            "num": 2
         },
         {
-            "name":"这是一个标题",
-            "detail":"这是一条资讯",
-            "imageUrl":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
-            "num":3
+            "name": "这是一个标题",
+            "detail": "这是一条资讯",
+            "imageUrl": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/MJBWealthGod_0525/image/elm.png",
+            "num": 3
         }
     ],
-    "code":0
+    "code": 0
 }

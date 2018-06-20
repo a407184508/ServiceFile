@@ -1,58 +1,58 @@
 {
-    "banners":[
+    "banners": [
         {
-            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/3.jpg",
-            "des":"",
-            "url":""
+            "img": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/3.jpg",
+            "des": "",
+            "url": ""
         },
         {
-            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/2.jpg",
-            "des":"",
-            "url":""
+            "img": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/2.jpg",
+            "des": "",
+            "url": ""
         },
         {
-            "img":"https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/1.jpg",
-            "des":"",
-            "url":""
+            "img": "https://raw.githubusercontent.com/a407184508/ServiceFile/master/CPMJBCoument_0531/Images/1.jpg",
+            "des": "",
+            "url": ""
         }
     ],
-    "texts":[
+    "texts": [
         {
-            "text" : "“恭喜182****3019获得1元红包",
-            "des" : "",
-            "url" : "",
-            "time" : "2018年05月31日",
-            "author" : "Chuck"
+            "text": "“恭喜182****3019获得1元红包",
+            "des": "",
+            "url": "",
+            "time": "2018年05月31日",
+            "author": "Chuck"
         },
         {
-            "text" : "“恭喜132****4256获得10元红包",
-            "des" : "",
-            "url" : "",
-            "time" : "2018年05月31日",
-            "author" : "Chuck"
+            "text": "“恭喜132****4256获得10元红包",
+            "des": "",
+            "url": "",
+            "time": "2018年05月31日",
+            "author": "Chuck"
         },
         {
-            "text" : "“恭喜132****1256获得10元红包",
-            "des" : "",
-            "url" : "",
-            "time" : "2018年05月31日",
-            "author" : "Chuck"
+            "text": "“恭喜132****1256获得10元红包",
+            "des": "",
+            "url": "",
+            "time": "2018年05月31日",
+            "author": "Chuck"
         },
         {
-            "text" : "“恭喜155****5526获得1元红包",
-            "des" : "",
-            "url" : "",
-            "time" : "2018年05月31日",
-            "author" : "Chuck"
+            "text": "“恭喜155****5526获得1元红包",
+            "des": "",
+            "url": "",
+            "time": "2018年05月31日",
+            "author": "Chuck"
         },
         {
-            "text" : "更多资讯，尽请期待",
-            "des" : "",
-            "url" : "",
-            "time" : "2018年05月31日",
-            "author" : "Mr.chen"
+            "text": "更多资讯，尽请期待",
+            "des": "",
+            "url": "",
+            "time": "2018年05月31日",
+            "author": "Mr.chen"
         }
     ],
-    "status":0,
-    "code":0
+    "status": 0,
+    "code": 0
 }
